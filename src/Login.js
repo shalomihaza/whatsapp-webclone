@@ -38,8 +38,8 @@ const Login = () => {
     <div className="login">
       <div className="login_container">
         <img
-          src="https://www.shutterstock.com/image-photo/valencia-spain-march-05-2017-whatsapp-593508881"
-          alt="loginlogo"
+          src="https://cdn.pixabay.com/photo/2015/08/03/13/58/whatsapp-873316_960_720.png"
+          alt="loginicon"
         />
         <div className="login_text">
           <h1>Sign in</h1>
